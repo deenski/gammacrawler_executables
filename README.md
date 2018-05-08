@@ -8,10 +8,4 @@ If you're unsure as to which file to use, try them both... If that doesn't work,
 I don't know how to supress this. Our game is open source, the repo is [held here](https://github.com/deenlord/gammacrawler). If you can help, I'd be grateful. Users: This game has no network connectivity, no database, it runs on java and is entirely local. We collect zero data, may the .exe harm your computer? It may. But we are unsure how exactly...
 
 ## Mac:
-For Mac and Linux: Download the .jar then modify this shell script:
-
-#!/bin/bash 
-
-java -jar GammaCrawler.jar
-
-to match the path of the jar. Run the shell script.
+For Mac and Linux: Download the .jar and modify gamma.sh to match the path of the jar. Run the shell script.
