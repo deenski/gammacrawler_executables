@@ -10,7 +10,8 @@ I don't know how to supress this. Our game is open source, the repo is [held her
 ## Mac:
 For Mac and Linux: Download the .jar then modify this shell script:
 
-#!/bin/bash
+#!/bin/bash 
+
 java -jar GammaCrawler.jar
 
 to match the path of the jar. Run the shell script.
